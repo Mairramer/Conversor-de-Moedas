@@ -1,6 +1,6 @@
 # conversor
 
-A new Flutter application.
+Um simples conversor de moedas usando uma api
 
 ## Getting Started
 
